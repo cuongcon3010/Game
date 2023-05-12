@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b43fdaeacf56b4b96123a977d68280, type: 3}
+  m_Name: New CharacterData
+  m_EditorClassIdentifier: 
+  Name: saber
+  type: saber
+  IMG: {fileID: -697406494, guid: f2e46148da21a3543b433ace616ed251, type: 3}
+  LV: 10
+  HP: 1000
+  STR: 20
+  SPD: 5
+  DEF: 200
